@@ -124,11 +124,12 @@ header {/*hacemos nuestro menu fijo*/
 }
 
 #image {
-	width: 100%;
+	width: 50%;
 	height: 50%;
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	margin: 25%;
 }
 
 
