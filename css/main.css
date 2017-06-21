@@ -1,40 +1,40 @@
 /*
- * Ingresa el CSS del proyecto en este archivo
- */
+* Ingresa el CSS del proyecto en este archivo
+*/
 
 * {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
 }
 
 *:before,
 *:after {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
 }
 
 body {
-  /* Establece la fuente de Google aquí */
-  margin: 0 auto;
-  font-size: 16px;
-  line-height: 1.71429;
-  background-color: #fff;
+	/* Establece la fuente de Google aquí */
+	margin: 0 auto;
+	font-size: 16px;
+	line-height: 1.71429;
+	background-color: #fff;
 	font-family: 'Raleway', sans-serif;
 }
 
 img {
-  vertical-align: middle;
+	vertical-align: middle;
 }
 
 a {
-  color: #373B47;
-  text-decoration: none;
+	color: #373B47;
+	text-decoration: none;
 }
 
 a:hover {
-  color: #E95853;
+	color: #E95853;
 }
 header {/*hacemos nuestro menu fijo*/
 	position:fixed;

@@ -24,7 +24,7 @@
 //function cerrarImagen(){
 //	modal.sytle.display = "none";
 //}
-/*se llaman las variables con id del modal, las imagenes y el span de cierre*/
+/*se llaman las variables con id del modal, las imagenes,el span de cierre */
 var modal = document.getElementById("myModal");
 var modalImg = document.getElementById("image");
 var captionText = document.getElementById("caption");
